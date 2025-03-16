@@ -8,10 +8,6 @@ It features **swipe gestures** for editing and deleting tasks and incorporates *
 
 ---
 
-## 📸 **Preview**  
-
-![Tasks App Preview](https://via.placeholder.com/600x300?text=Tasks+App+Preview)
-
 ### 🎥 **Watch the App in Action**
 https://github.com/user-attachments/assets/7a4f95ff-5b2c-4da9-8360-d4c2200a780f
 
